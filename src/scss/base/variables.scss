@@ -1,0 +1,29 @@
+$primary-color: #3F51B5;
+
+$light-color: #fff;
+
+$font-primary-color: #232323;
+$font-secondary-color: #727272;
+
+
+$font-main: 'ElMessiri', 'Times New Roman', serif;
+$font-base: Lato, Arial, sans-serif;
+$base-font-size: 14px;
+$heading-font-size: rem(40px);
+$base-line-height: rem(25px);
+
+
+// Точки останова
+
+$desktopWidth            : 1280px;
+$smDesktopWidth          : 1024px;
+$tabletWidth             : 768px;
+$smTabletWidth           : 640px;
+$phoneWidth              : 480px;
+$smPhoneWidth            : 320px;
+
+
+// Сетка
+
+$container-width: 1200px;
+$container-padding: 0 15px;
